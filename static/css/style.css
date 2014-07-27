@@ -293,6 +293,7 @@ b, strong {
 .cat-links,
 .tag-links {
 	display: block;
+	font-size: smaller;
 }
 .tag-links strong {
 	background: #eee;
