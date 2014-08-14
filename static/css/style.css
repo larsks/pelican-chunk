@@ -381,6 +381,11 @@ ul ul, ol ol, ul ol, ol ul {
 	margin-bottom: 0;
 }
 
+pre {
+	padding: 1em;
+	background-color: #e0e0e0;
+}
+
 /* Sticky */
 .sticky .main {
 	background: #eee;
